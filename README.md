@@ -1,2 +1,2 @@
-# training_docker
-training
+# training docker
+Sample codes for docker
